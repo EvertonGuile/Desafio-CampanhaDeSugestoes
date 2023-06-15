@@ -1,0 +1,536 @@
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\appsettings.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\aula 5.exe
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\aula 5.deps.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\aula 5.runtimeconfig.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\aula 5.runtimeconfig.dev.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\aula 5.Views.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.csproj.AssemblyReference.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.AssemblyInfoInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.AssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.csproj.CoreCompileInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\scopedcss\bundle\aula 5.styles.css
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\staticwebassets\aula 5.StaticWebAssets.Manifest.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.TagHelpers.input.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.TagHelpers.output.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.RazorCoreGenerate.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\refint\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.genruntimeconfig.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\ref\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\aula 5.csproj.CopyComplete
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Humanizer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\Aluno\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 5\obj\Debug\net5.0\Razor\Views\Aluno\Create.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\appsettings.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\aula 5.exe
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\aula 5.deps.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\aula 5.runtimeconfig.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\aula 5.runtimeconfig.dev.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\aula 5.Views.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Humanizer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.csproj.AssemblyReference.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.AssemblyInfoInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.AssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.csproj.CoreCompileInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\scopedcss\bundle\aula 5.styles.css
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\staticwebassets\aula 5.StaticWebAssets.Manifest.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.TagHelpers.input.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.TagHelpers.output.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.RazorCoreGenerate.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Aluno\Create.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Aluno\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.csproj.CopyComplete
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\refint\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\aula 5.genruntimeconfig.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\ref\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Aluno\Edit.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 6\obj\Debug\net5.0\Razor\Views\Aluno\Delete.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\appsettings.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\aula 5.exe
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\aula 5.deps.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\aula 5.runtimeconfig.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\aula 5.runtimeconfig.dev.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\aula 5.Views.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Humanizer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.csproj.AssemblyReference.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.AssemblyInfoInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.AssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.csproj.CoreCompileInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\scopedcss\bundle\aula 5.styles.css
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\staticwebassets\aula 5.StaticWebAssets.Manifest.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.TagHelpers.input.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.TagHelpers.output.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.RazorCoreGenerate.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Aluno\Create.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Aluno\Delete.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Aluno\Edit.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Aluno\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.csproj.CopyComplete
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\refint\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\aula 5.genruntimeconfig.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\ref\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\aula 7\obj\Debug\net5.0\Razor\Views\Usuario\RegistrarNovoUsuario.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\appsettings.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\aula 5.exe
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\aula 5.deps.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\aula 5.runtimeconfig.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\aula 5.runtimeconfig.dev.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\aula 5.Views.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Humanizer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.csproj.AssemblyReference.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.AssemblyInfoInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.AssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.csproj.CoreCompileInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\scopedcss\bundle\aula 5.styles.css
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\staticwebassets\aula 5.StaticWebAssets.Manifest.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.TagHelpers.input.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.TagHelpers.output.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.RazorCoreGenerate.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Aluno\Create.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Aluno\Delete.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Aluno\Edit.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Aluno\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Usuario\RegistrarNovoUsuario.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.csproj.CopyComplete
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\refint\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\aula 5.genruntimeconfig.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\ref\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Shared\_MeuLayout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\novo teste aula 8\obj\Debug\net5.0\Razor\Views\Shared\_StatusMessages.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\appsettings.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.exe
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.deps.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.runtimeconfig.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.runtimeconfig.dev.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.Views.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Humanizer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.AssemblyReference.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.AssemblyInfoInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.AssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.CoreCompileInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\scopedcss\bundle\aula 5.styles.css
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\staticwebassets\aula 5.StaticWebAssets.Manifest.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.TagHelpers.input.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.TagHelpers.output.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorCoreGenerate.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Create.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Delete.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Edit.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_MeuLayout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_StatusMessages.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Usuario\RegistrarNovoUsuario.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.CopyComplete
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\refint\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.genruntimeconfig.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\ref\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\appsettings.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.exe
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.deps.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.runtimeconfig.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.runtimeconfig.dev.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.Views.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Humanizer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.AssemblyReference.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.AssemblyInfoInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.AssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.CoreCompileInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\scopedcss\bundle\aula 5.styles.css
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\staticwebassets\aula 5.StaticWebAssets.Manifest.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.TagHelpers.input.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.TagHelpers.output.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorCoreGenerate.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Create.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Delete.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Edit.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_MeuLayout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_StatusMessages.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Usuario\RegistrarNovoUsuario.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.CopyComplete
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\refint\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.genruntimeconfig.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Sesenvolvimento de Produtos de Software I\obj\Debug\net5.0\ref\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\appsettings.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.exe
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.deps.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.runtimeconfig.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.runtimeconfig.dev.json
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.Views.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Humanizer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.AssemblyReference.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.AssemblyInfoInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.AssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.CoreCompileInputs.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\scopedcss\bundle\aula 5.styles.css
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\staticwebassets\aula 5.StaticWebAssets.Manifest.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.TagHelpers.input.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.TagHelpers.output.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorCoreGenerate.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Create.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Delete.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Edit.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Aluno\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_MeuLayout.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_StatusMessages.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\Usuario\RegistrarNovoUsuario.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.RazorTargetAssemblyInfo.cs
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.Views.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.csproj.CopyComplete
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\refint\aula 5.dll
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.pdb
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\aula 5.genruntimeconfig.cache
+C:\Users\evert\Faculdade\ead\laboratorio desenvolvimento 1\BK - Cookies resolvidos - Desafio Desenvolvimento de Produtos de Software I\obj\Debug\net5.0\ref\aula 5.dll

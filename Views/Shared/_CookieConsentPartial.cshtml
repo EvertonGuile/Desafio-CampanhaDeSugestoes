@@ -1,0 +1,49 @@
+<div id="cookieConsent" class="alert alert-info alert-dismissible fade show" role="alert">
+    <strong>Utilização de Cookies:</strong> Este site utiliza cookies para melhorar a sua experiência.
+    <button id="cookieConsentButton" class="btn btn-primary btn-sm" data-dismiss="alert">
+        Aceitar
+    </button>
+</div>
+
+@section Scripts {
+    <script>
+        function getCookieValue(name) {
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i].trim();
+                if (cookie.startsWith(name + '=')) {
+                    return cookie.substring(name.length + 1);
+                }
+            }
+            return '';
+        }
+
+        const cookieAceito = getCookieValue('cookies-aceitos');
+
+        document.getElementById("cookieConsentButton").addEventListener("click", function () {
+            console.log("Button clicked");
+            // Registra o consentimento do cookie
+            setCookieConsent();
+
+            // Oculta o aviso de cookies
+            hideCookieConsent();
+            console.log("Cookie consent accepted and hideCookieConsent() called.");
+        });
+
+        function setCookieConsent() {
+            // Lógica para registrar o consentimento do cookie
+            // Por exemplo, você pode usar cookies ou armazenamento local para registrar o consentimento do usuário
+            document.cookie = 'cookies-aceitos=true; expires=' + new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toUTCString();
+        }
+
+        function hideCookieConsent() {
+            // Oculta o aviso de cookies definindo o estilo de exibição como "none"
+            document.getElementById("cookieConsent").style.display = "none";
+        }
+
+        if (cookieAceito === 'true') {
+            hideCookieConsent();
+        }
+
+    </script>
+}

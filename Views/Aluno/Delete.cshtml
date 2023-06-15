@@ -1,0 +1,35 @@
+@model aula_5.Models.Aluno
+    @{
+        ViewData["Title"] = "Delete";
+    }
+
+
+    <h1>Confirmação de exclusão</h1>
+
+    <p>Você tem certeza que deseja excluir o aluno abaixo?</p>
+
+    <div>
+        <dl class="row">
+            <dt class="col-sm-2">ID:</dt>
+            <dd class="col-sm-10">@Model.alunoId</dd>
+
+            <dt class="col-sm-2">Nome:</dt>
+            <dd class="col-sm-10">@Model.nome</dd>
+
+            <dt class="col-sm-2">CPF:</dt>
+            <dd class="col-sm-10">@Model.cpf</dd>
+
+            <dt class="col-sm-2">Email:</dt>
+            <dd class="col-sm-10">@Model.email</dd>
+        </dl>
+    </div>
+
+    <form asp-action="Delete" method="post" class="mt-4">
+        <input type="hidden" asp-for="alunoId" />
+        <button type="submit" class="btn btn-danger">Confirmar exclusão</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,34 @@
+﻿@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- RESOLVE OS COOKIES -->
+@{
+    
+    var httpContext = ViewContext.HttpContext;
+    var request = httpContext.Request;
+    // Verificar se o cookie de consentimento já foi aceito
+    if (request.Cookies["CookieConsent"] == null)
+    {
+        <partial name="_CookieConsentPartial" />
+    }
+}
+
+
+
+<div class="text-center">
+    <h1 class="display-6">Olá @Context.User.Identity.Name, Seja bem vindo(a) a nossa</h1>
+    <h5 class="display-3" style="color : #28a745"><strong>Campanha de Sugestões!</strong></h5>
+    <h6>🌟 Transformando Desafios em Oportunidades: Compartilhe sua Ideia e Faça a Diferença! 🌟</h6>
+<p>Descubra o poder das suas ideias e ajude a impulsionar nossa empresa para o futuro!<br>
+Estamos em busca de sugestões que tragam soluções inovadoras para o tema<br>
+<strong>"Sustentabilidade: Cuidando do Nosso Planeta, Construindo um Futuro Melhor".</strong><br>
+Queremos ouvir suas ideias sobre como podemos reduzir nosso impacto ambiental, promover práticas sustentáveis em nossas operações diárias e contribuir para um futuro mais verde. Acreditamos que cada sugestão, por menor que seja, pode gerar grandes transformações.<br>
+Ao participar dessa campanha, <strong>você terá a chance de ganhar um prêmio especial</strong> como reconhecimento pela sua contribuição e dedicação em ajudar a construir um mundo mais sustentável.<br>
+Seja parte dessa mudança positiva! Compartilhe suas ideias para melhorar a nossa empresa, preservar o meio ambiente e deixar um legado duradouro para as futuras gerações.
+Juntos, podemos transformar desafios em oportunidades sustentáveis.<br />
+<br>Faça sua sugestão agora mesmo e concorra!</p>
+    <a asp-controller="Aluno" asp-action="Index" class="btn btn-success">Enviar Sugestão</a>
+</div>

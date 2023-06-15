@@ -1,0 +1,68 @@
+@model aula_5.Models.Aluno
+    @{
+        ViewData["Title"] = "Create";
+    }
+
+<h1>Novo Aluno</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-12">
+            <form asp-action="Create">
+                <div class="row">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div> 
+                    <div class="form-group col-md-12">
+                        <label asp-for="nome" class="control-label"></label>
+                        <input asp-for="nome" class="form-control" placeholder="Digite o nome completo" />
+                        <span asp-validation-for="nome" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-group col-md-6">
+                    <label asp-for="cpf" class="control-label"></label>
+                    <input asp-for="cpf" class="form-control" placeholder="CPF só números" />
+                    <span asp-validation-for="cpf" class="text-danger"></span>
+                    </div>
+                
+                    <div class="form-group col-md-6">
+                        <label asp-for="email" class="control-label"></label>
+                        <input asp-for="email" class="form-control" placeholder="E-mail pessoal"/>
+                        <span asp-validation-for="email" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="form-group col-md-6">
+                        <label asp-for="EstadoCivilId" class="control-label"></label><br />
+                        <select asp-for="EstadoCivilId" asp-items="@ViewBag.EstadoCivil" class="form-control"></select>
+                        <span asp-validation-for="EstadoCivilId" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="SexoId" class="control-label"></label><br />
+                        @foreach (var item in ViewBag.Sexo)
+                        {
+                            <div class="custom-control custom-radio custom-control-inline">
+                                <input type="radio" asp-for="SexoId" value="@item.SexoId" class="custom-control-input"
+                                id="@item.SexoId"/>
+                                <label class="custom-control-label" for="@item.SexoId" >@item.Nome </label><br />
+                                <span asp-validation-for="EstadoCivilId" class="text-danger"></span>
+                            </div>
+                        }
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Salvar" class="btn btn-primary" />
+                    <a asp-action="Index" class="btn btn-danger">Cancelar</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+    <a asp-action="Index">Lista de Alunos</a>
+    </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

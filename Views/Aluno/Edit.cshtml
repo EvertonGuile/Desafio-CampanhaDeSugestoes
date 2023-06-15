@@ -1,0 +1,58 @@
+@model aula_5.Models.Aluno
+    @{
+        ViewData["Title"] = "Edit";
+    }
+
+<h1>Edição Aluno</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <!--<label asp-for="alunoId" class="control-label"></label>-->
+                <!--<input asp-for="alunoId" class="form-control" />-->
+                <input type="hidden" asp-for="alunoId" />
+                <!--<span asp-validation-for="alunoId" class="text-danger"></span>-->
+            </div>
+            <div class="form-group">
+                <label asp-for="nome" class="control-label"></label>
+                <input asp-for="nome" class="form-control" />
+                <span asp-validation-for="nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="cpf" class="control-label"></label>
+                <input asp-for="cpf" class="form-control" />
+                <span asp-validation-for="cpf" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstadoCivilId" class="control-label"></label>
+                <select asp-for="EstadoCivilId" asp-items="@ViewBag.EstadoCivil" class="control-label"></select>
+                <span asp-validation-for="EstadoCivilId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SexoId" class="control-label"></label><br />
+                @foreach (var item in ViewBag.Sexo)
+                {
+                    <input type="radio" asp-for="SexoId" value="@item.SexoId" class="control-label"/>@item.Nome<br />
+                    <span asp-validation-for="EstadoCivilId" class="text-danger"></span>
+                }
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar Alterações" class="btn btn-primary" />
+            </div>
+            </form>
+        </div>
+    </div>
+    <div>
+    <a asp-action="Index">Lista de Alunos</a>
+    </div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
